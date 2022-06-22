@@ -26,8 +26,3 @@
     data: () => [{drawer: null}],
   }
 </script>
-
-
-<style>
-
-</style>
